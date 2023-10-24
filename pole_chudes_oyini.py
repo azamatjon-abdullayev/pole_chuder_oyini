@@ -1,3 +1,5 @@
+from pole_chudes_by_mukhammadyusuf import get_answer_mask_letters
+
 q = 's'
 w = 'a'
 e = 'l'
